@@ -10,4 +10,7 @@ Adjust login information appropriately.
 To authenticate Berkeley students: calnetlogin.inc.php is located in public_html/inc
 Include from files in public_html directory or otherwise includes need to be adjusted
 
-2. To use extant database structure: Import SQL dump from root directory
+2. To test authentication, go to public_html/index_test.php
+
+3. To use extant database structure: Import SQL dump from root directory
+
